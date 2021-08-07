@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Kannan K",
+    "occupation": "Python and DevOps Developer",
+    "description": "Python, AIOT & DevOps Developer | Star Wars Fan",
+    "image": "profilepic.jpeg",
+    "bio": "Software Developer with 3 years of successful experience in Python and Linux, designing and developing AI based IOT applications.",
+    "contactmessage": "Get in touch with me.",
+    "email": "kannan.valmutty@gmail.com",
+    "phone": "555-555-5555",
+    "city": "Kerala, India",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://kannank97.github.io/",
+    "resumedownload": "https://github.com/Kannank97/kannank97.github.io/blob/master/kannan_resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kannan.krishnan.9081",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kannan059",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kannan-k-46bb58129/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/njankannan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Kannank97",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Experienced Python developer with knowledge in both AI and DevOps.",
+    "education": [
+      {
+        "school": "Calict University, Kerala",
+        "degree": "Bachelor of Technology - Computer Science And Engineering",
+        "graduated": "May 2018",
+        "description": "Distinction with First Class."
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Cosultancy Services",
+        "title": "Systems Engineer",
+        "years": "September 2020 - Present",
+        "description": "Designed and developed Python based applications fordeployment on AIoT platforms. \n Improved functionalities by designing and implementing cross-platform applications for Splunk. \n Improved performance of multiple applications by redesigning and developing efficient data logging and monitoring software. \n Worked closely with customer and developers to oversee AWS and Azure cloud service security and billing.\n Worked with multiple teams to deploy applications to Docker and Kubernetes."
+      },
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Assistant Systems Engineer",
+        "years": "September 2018 - August 2020",
+        "description": "Designed and Developed AI based use cases for multiple customers with rapid prototyping. \n Participated in all phases of system development lifecycle, from requirements analysis through system implementation."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Linux",
+        "level": "80%"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "level": "80%"
+      },
+      {
+        "name": "Docker",
+        "level": "85%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "60%"
+      },
+            {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Splunk",
+        "level": "70%"
+      },
+      {
+        "name": "AWS and GCP IaaS",
+        "level": "60%"
+      },
+      {
+        "name": "Azure Iot Hub",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Data Science with Python",
+        "category": "Jupyter Notebooks",
+        "image": "data_science.jpg",
+        "url": "https://github.com/Kannank97/Introduction-to-Data-Science-with-Python"
+      },
+      {
+        "title": "Linux Shell for beginners",
+        "category": "Tech Blogs",
+        "image": "seashells.jpg",
+        "url": "https://njankannan.medium.com/linux-shell-for-beginners-bf617472f37d"
+      },
+      {
+        "title": "Getting started with Node.js",
+        "category": "Tech blogs",
+        "image": "wonder.jpg",
+        "url": "https://njankannan.medium.com/getting-started-with-node-js-on-windows-953a1e13c1fc"
+      },
+      {
+        "title": "Tips to take care of your eyes",
+        "category": "Health",
+        "image": "health.jpg",
+        "url": "https://njankannan.medium.com/working-with-a-computer-all-day-here-are-some-tips-to-take-care-of-your-eyes-64d30d2493c4"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
